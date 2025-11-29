@@ -1,4 +1,5 @@
-# Thought this would be an intresting one to test this on doing so is completely optional.
+# Thought this would be an intresting one to test on as doing so is completely optional.
+# and was one of the reasons behind the makings of this project.
 import pytest
 from pyrv8 import Context
 
